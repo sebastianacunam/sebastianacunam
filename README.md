@@ -1,6 +1,4 @@
-
-
-## Hi there, welcome to my GitHub profile! 👋
+![](https://github.com/sebastianacunam/sebastianacunam/blob/main/images/hello-friend.jpg)
 
 ```js
 const sebastianacunam = {
