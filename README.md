@@ -13,20 +13,27 @@ const sebastianacunam = {
           {'Sequelize'},
           {'MongoDB'},
           {'Postgres'},
+          {'Sass'}
         ],
   age: 25,
   from: Venezuela,
   currentlyLiving: Argentina,
-  projects: [
-    {SPA-countries}: https://pi-countries-sebastianacunam.vercel.app/,
-    {},
-    {},
-  ]
+  projects: ['SPA-countries', 'SPA-food', 'E-commerce E-SOCIAL'],
+  futureTecnologies: ['PHP', 'Java'],
 }
 ```
+<div align="center">
+  <h2>About me</h2>
+  <h3> I'm a full stack web developer.</h3>
+  <h5>FunFact: I like backend a little bit more<h5/>
+  <p> I believe that the most important thing of any work is the possibility to work efficiently with teammates, and I work very hard to achieve that. </p>
+  
+  
+</div>
   
 <div align="center">
-## Tech Stack
+
+  ## Tech Stack
 
 <br />
 <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/html.svg" alt="html"></a>
@@ -45,4 +52,12 @@ const sebastianacunam = {
 <br />
 
 <a margin="10" href="https://expressjs.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/express.svg" alt="express"></a>
+
 </div>
+  
+
+<div align="center">
+  <h2>Want to get in touch?</h2>
+  <a href="https://www.linkedin.com/in/sebastianacunam/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Sebastián Acuña linkedIn profile" height="50" width="50"></a>   
+  <a align='right' href="mailto:sebasjam96@gmail.com"><img alt="Email" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="50" width="50"/></a>  
+  </div>
