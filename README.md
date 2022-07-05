@@ -1,7 +1,31 @@
+
+
+## Hi there, welcome to my GitHub profile! 👋
+
+```js
+const sebastianacunam = {
+  technologies: [
+          {'JavaScript'},
+          {'React'}, 
+          {'Redux'},
+          {'NodeJs'}, 
+          {'Express'}, 
+          {'Sequelize'},
+          {'MongoDB'},
+          {'Postgres'},
+        ],
+  age: 25,
+  from: Venezuela,
+  currentlyLiving: Argentina,
+  projects: [
+    {SPA-countries}: https://pi-countries-sebastianacunam.vercel.app/,
+    {},
+    {},
+  ]
+}
+```
+  
 <div align="center">
-
-### Hi there, welcome to my GitHub profile! 👋
-
 ## Tech Stack
 
 <br />
