@@ -53,6 +53,17 @@ const sebastianacunam = {
 
 </div>
   
+<div align="center">
+  <h2>Some of my last works</h2>
+  <ul> 
+    <li><a href="https://e-social-book.netlify.app/" target="_blank">E-Social</a>: E-commerce </li>
+    <li><a href="https://pi-food-sebastianacunam.vercel.app" target="_blank">PI-Food</a>: SPA (Single Page Application)</li>
+    <li><a href="https://pi-countries-sebastianacunam.vercel.app" target="_blank">PI-Countries</a>: SPA (Single Page Application)</li>
+  </ul>
+ 
+  
+</div>
+  
 
 <div align="center">
   <h2>Want to get in touch?</h2>
