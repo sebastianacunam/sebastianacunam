@@ -13,7 +13,7 @@ const sebastianacunam = {
           {'Postgres'},
           {'Sass'}
         ],
-  age: 27,
+  age: 28,
   from: Venezuela,
   currentlyLiving: Argentina,
   projects: ['SPA-countries', 'SPA-food', 'E-commerce E-SOCIAL'],
