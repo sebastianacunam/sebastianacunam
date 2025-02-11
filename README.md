@@ -3,21 +3,22 @@
 ```js
 const sebastianacunam = {
   technologies: [
-          {'JavaScript'},
-          {'React'}, 
-          {'Redux'},
-          {'NodeJs'}, 
-          {'Express'}, 
-          {'Sequelize'},
-          {'MongoDB'},
-          {'Postgres'},
-          {'Sass'}
+          'JavaScript',
+          'React', 
+          'Redux',
+          'NodeJs',
+          'NestJs',
+          'Express', 
+          'Sequelize',
+          'Mongoose',
+          'MongoDB',
+          'Postgres',
+          'Sass'
         ],
   age: 28,
   from: Venezuela,
   currentlyLiving: Argentina,
-  projects: ['SPA-countries', 'SPA-food', 'E-commerce E-SOCIAL'],
-  futureTecnologies: ['PHP', 'Java'],
+  futureTecnologies: ['Python', 'TypeScript', 'Salesforce', 'Angular'],
 }
 ```
 <div align="center">
